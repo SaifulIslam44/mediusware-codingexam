@@ -4,3 +4,4 @@ Exam filter=lfs diff=lfs merge=lfs -text
 Coding filter=lfs diff=lfs merge=lfs -text
 Video.mp4 filter=lfs diff=lfs merge=lfs -text
 Exam[[:space:]]Coding[[:space:]]Video.mp4 filter=lfs diff=lfs merge=lfs -text
+task/* filter=lfs diff=lfs merge=lfs -text
